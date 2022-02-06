@@ -1,0 +1,51 @@
+*{
+    margin: 10px;
+    padding: 10px;
+    font-family: sans-serif;
+}
+.car{
+    
+    color: rgb(87, 196, 196);
+}
+.side{
+   color: rgb(97, 190, 88);
+   
+   font-size: 20px;
+    
+}
+.bike{
+    color: grey;
+   ;
+    font-size: 20px;
+}
+.wrapper{
+    background: rgb(44, 194, 194);
+    width: 550px;
+    color: white;
+    float: left;
+    padding: 0px;
+    margin: 0px;
+
+   
+}
+.Q{
+    
+    font-size: 30px;
+}
+.A{
+    color: rgb(214, 212, 212);
+}
+button{
+    background: greenyellow;
+    width: 230px;
+}
+.atom{
+    float: left;
+    background: rgb(34, 194, 172);
+    width: 550px;
+    height: 239px;
+    padding: 0px;
+    margin: 0px;
+
+    color: white;
+}
